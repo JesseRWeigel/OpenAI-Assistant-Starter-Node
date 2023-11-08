@@ -7,8 +7,8 @@ This project is a Node.js application that interfaces with the OpenAI API to cre
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone [your-repository-url]
-cd [your-project-directory]
+git clone https://github.com/JesseRWeigel/OpenAI-Assistant-Starter-Node.git
+cd OpenAI-Assistant-Starter-Node
 yarn
 ```
 
